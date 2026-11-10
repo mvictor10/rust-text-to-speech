@@ -1,0 +1,6 @@
+/target/
+/dist/
+*.wav
+*.mp3
+*.tmp
+.DS_Store
